@@ -1,3 +1,7 @@
+Spring :
+ application :
+  name : dev-service
+
 eureka:
   client:
     service-url:
