@@ -1,6 +1,6 @@
 Spring :
- application :
-  name : dev-service
+  application :
+    name : dev-service
 
 eureka:
   client:
